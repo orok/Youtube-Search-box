@@ -8,6 +8,7 @@ $(function(){
 		$(this).animate({
 			width:'100%'
 		},400);
+		
 		$(icon).animate({
 			right: '10px'
 		}, 400);
